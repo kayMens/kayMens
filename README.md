@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on projects using #Laravel, #Vue and #Flutter.
 - 📫 Reach me via email: nanaarko72@gmail.com
-- 🐦 Tweet @ me: @_KwekuAm
+- 🐦 Tweet @ me: @_KwekuAM
 
 <!---
 kayMens/kayMens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
