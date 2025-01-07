@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kayMens
-- 👀 I’m interested building solutions.
+- 👀 I’m interested in building solutions.
 - 💞️ Currently building Android apps with #Kotlin and #Compose.
 - 📫 Reach me via email: nanaarko72@gmail.com
 - 🐦 Tweet @ me: @_KwekuAM or maybe not 
